@@ -16,7 +16,7 @@
     "element-ui": "^2.10.0",
     "jquery": "^3.4.1",
     "js-sha256": "^0.9.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "video.js": "^7.6.6",
     "videojs-flash": "^2.2.1",
     "vue": "^2.5.2",
